@@ -3,7 +3,7 @@ MAINTAINER Andrew Munro <synestry@gmail.com>
 
 ENV ENVIRONMENT production
 ENV USER pathfinder
-ENV URL http://192.168.99.100/
+ENV URL http://localhost
 ENV NGINX_HOSTNAME localhost
 ENV MYSQL_PASS changeme
 
